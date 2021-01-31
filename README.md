@@ -1,4 +1,4 @@
-How to run app : 
+Các bước khởi chạy project : 
 - Step 1 : import database ở thư mục database vào máy của các bạn
 - Step 2 : npm install 
 - Step 3 : npm start 

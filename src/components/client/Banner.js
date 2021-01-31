@@ -32,8 +32,8 @@ class Banner extends Component {
             <div className="Banner">
                 <Container>
                     <div className="title">
-                        <h1>Your own books store</h1>
-                        <p>Get your favourite books from our wide range of books.</p>
+                        <h1>Nguyễn Mạnh Hải - 20158119 - PROJECT3</h1>
+                        <h3 className="tt-12">Website bán sách Online</h3>
                     </div>
                     <div className="search-bar">
                         <span className="label">Book</span>

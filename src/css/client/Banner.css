@@ -12,6 +12,11 @@
     background-color: rgb(247, 247, 247);
 }
 
+.tt-12 {
+    text-align: center; 
+    margin-bottom: 2em;
+}
+
 .Banner .title h1 {
     font-size: 55px;
     color: rgb(13, 17, 54);
