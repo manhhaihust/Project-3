@@ -38,7 +38,7 @@ class Banner extends Component {
                     <div className="search-bar">
                         <span className="label">Book</span>
                         <form>
-                            <input className="p-0" type="text" placeholder="Search your books from here" name="keyword" value={this.state.keyword} onChange={this.handeChange} />
+                            <input className="p-0" type="text" placeholder="Search your book" name="keyword" value={this.state.keyword} onChange={this.handeChange} />
                         </form>
                         <Button onClick={this.handleOnclick}>
                             <FontAwesomeIcon icon={faSearch} className="mr-2" />

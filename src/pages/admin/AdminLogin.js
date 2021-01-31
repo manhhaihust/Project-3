@@ -91,7 +91,7 @@ class AdminLogin extends Component {
             <div className="AdminLogin">
                 <div className="Authform">
                     <div className='header'>
-                        <img src="https://res.cloudinary.com/dofqucuyy/image/upload/v1585755124/Books/logo_gtuxyy.svg" alt="" />
+                        <img className="logo-img" src="https://i.imgur.com/YpLMnmW.png" alt="" />
                         <p>Login to Admin</p>
                     </div>
                     {err && <div style={{

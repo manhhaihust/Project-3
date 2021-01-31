@@ -9,7 +9,7 @@ class Header extends Component {
             <div className="NavAdmin">
                 <div className="logo">
                     <Link to="/">
-                        <img src="https://res.cloudinary.com/dofqucuyy/image/upload/v1585755124/Books/logo_gtuxyy.svg" alt="" />
+                        <img className="logo-img" src="https://i.imgur.com/YpLMnmW.png" alt="" />
                     </Link>
                 </div>
                 <div className="add-products-btn" onClick={onOpenFormProduct}>

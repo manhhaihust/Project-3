@@ -48,7 +48,7 @@ class Nav extends Component {
             <div className="Nav">
                 <div className="logo">
                     <Link to="/">
-                        <img alt="" src="https://res.cloudinary.com/dofqucuyy/image/upload/v1585755124/Books/logo_gtuxyy.svg" />
+                        <img className="logo-img" alt="" src="https://i.imgur.com/YpLMnmW.png" />
                     </Link>
                 </div>
                 <div className="user-btn">
