@@ -109,9 +109,9 @@ module.exports = handlers
   // create admin user
     // async signIn(req, res, next) {
     //     let user = {
-    //         email: 'doanhtuan7198@gmail.com',
+    //         email: 'nguyenmanhhai7198@gmail.com',
     //         password: hashPassword,
-    //         fullname: 'Do Anh Tuan',
+    //         fullname: 'Do Manh Hai',
     //         roles: ['admin']
     //     }
     //     let item = await userProfileModel.create(user)

@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken')
-// let data = { email: 'doanhtuan@gmail.com', name: 'Do Anh Tuan' }
+// let data = { email: 'nguyenmanhhai@gmail.com', name: 'Do Manh Hai' }
 let SECRET_STRING = 'my secret string'
 // let token = jwt.sign(data, SECRET_STRING, { expiresIn: '6h' })
 

@@ -88,12 +88,12 @@ class SignIn extends Component {
                 <Form onSubmit={this.onSubmit}>
                     <FormGroup>
                         <Label for="Email">Email</Label>
-                        <Input type="email" name="email" id="Email" placeholder="EX: doanhtuan@gmail.com" value={email} onChange={this.onHandleChange} />
+                        <Input type="email" name="email" id="Email" placeholder="EX: nguyenmanhhai@gmail.com" value={email} onChange={this.onHandleChange} />
                         {emailErr && <div className="validation">{emailErr}</div>}
                     </FormGroup>
                     <FormGroup>
                         <Label for="Password">Password</Label>
-                        <Input type="password" name="password" id="Password" placeholder="EX: tuan123" value={password} onChange={this.onHandleChange} />
+                        <Input type="password" name="password" id="Password" placeholder="EX: hai123" value={password} onChange={this.onHandleChange} />
                         {passwordErr && <div className="validation">{passwordErr}</div>}
                     </FormGroup>
                     <Button size="lg" block type="submit" className="btn">Continue</Button>
