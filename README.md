@@ -6,5 +6,5 @@ Các bước khởi chạy project :
 ==============================
 
 User Admin:
-id: admin123
-pass: admin123
+- id: admin123
+- pass: admin123
